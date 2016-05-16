@@ -1,4 +1,4 @@
-SRC=~/config_repo_linux
+SRC=~/dotfiles_linux
 
 all	: clean
 	@echo SOURCE $(SRC)
