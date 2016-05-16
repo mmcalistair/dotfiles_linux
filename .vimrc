@@ -9,7 +9,7 @@ syntax on
 set statusline=%<%f\ %h%m%r%{fugitive#statusline()}%=%-14.(%l,%c%V%)\ %P
 set laststatus=2
 
-colorscheme default
+colorscheme wombat256
 set number
 set ts=4
 set shiftwidth=4
