@@ -9,7 +9,7 @@ syntax on
 set statusline=%<%f\ %h%m%r%{fugitive#statusline()}%=%-14.(%l,%c%V%)\ %P
 set laststatus=2
 
-colorscheme wombat256
+colorscheme murphy
 set number
 set ts=4
 set shiftwidth=4
@@ -21,6 +21,8 @@ set hlsearch
 set ignorecase
 "set guifont=Monaco:h12
 set guifont=Inconsolata\ for\ Powerline:h13
+set number
+set relativenumber
 
 let g:ctrlp_map = '<c-p>'
 let g:ctrlp_cmd = 'CtrlP'

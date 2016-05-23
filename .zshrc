@@ -6,6 +6,7 @@ export EDITOR=/usr/bin/vim
 export SHELL=/bin/zsh
 export PATH=$PATH:/usr/local/opt/go/libexec/bin
 export PATH=$PATH:/Users/noname/dev/ressources/tools
+export TERM=xterm-256color
 
 # Load all of the config files in ~/oh-my-zsh that end in .zsh
 for config_file ($ZSH/lib/*.zsh) source $config_file

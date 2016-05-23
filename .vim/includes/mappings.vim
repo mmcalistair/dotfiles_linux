@@ -11,3 +11,5 @@ map <C-k> <C-w>k
 map <Leader><F3> :source ~/.vimrc<CR>
 map <Leader><F2> :tabnew ~/.vimrc<CR>
 
+map <Leader>, :NERDTreeToggle<CR>
+
