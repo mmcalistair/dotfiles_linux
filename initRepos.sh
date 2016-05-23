@@ -21,7 +21,7 @@ ln -s `pwd`/.zsh ~/
 ln -s `pwd`/.gitignore_global ~/
 
 mkdir -p ~/dotfiles_unix/.vim/bundle
-cd ~/dotfiles_unix/.vim/bundle
+cd ~/dotfiles_linux/.vim/bundle
 git clone https://github.com/kien/ctrlp.vim.git
 git clone https://github.com/tpope/vim-pathogen.git
 git clone https://github.com/scrooloose/nerdtree.git
